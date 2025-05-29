@@ -1,3 +1,4 @@
+I am excited about the Remote Patient Coordinator role because it aligns with my experience in nutrition and patient care, especially in supporting individuals with chronic and mental health conditions. My background has equipped me with strong communication, organization, and empathy skills—essential for coordinating patient needs remotely. I am passionate about helping others navigate their health journeys and ensuring they feel supported and understood every step of the way.
 # Sublime Text - Core - Bug and Issue Tracker
 
 ## The issue list
